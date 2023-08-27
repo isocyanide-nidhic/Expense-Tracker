@@ -1,3 +1,4 @@
-# Expense-Tracker
-Dart Flutter
+# Expense-Tracker App
+using Dart Flutter
+
 under development

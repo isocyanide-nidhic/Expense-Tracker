@@ -1,4 +1,7 @@
 # Expense-Tracker App
-using Dart Flutter
+## Technologies used- 
+Dart language, Flutter framework
 
-under development
+## Description
+Expense tracking means recording all your expenditures so you have a clear and detailed understanding of your budget. Also, it allows you to monitor and categorize your expenses.
+
